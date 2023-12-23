@@ -1,1 +1,1 @@
-zerocostcoursebyyogesh.web.app.
+website url: zerocostcoursebyyogesh.web.app
